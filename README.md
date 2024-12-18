@@ -10,6 +10,5 @@ You have an array you're required to distribute the array into small arrays.
 Create a function that takes an ArrayList as an argument. 
 
 ### Qualification to pass
-[] The code should run successfully.
- Write all the required functions correctly.
- Completely define the stack class.
+- [ ] The code should run successfully.
+- [ ] Write all the required functions correctly.
