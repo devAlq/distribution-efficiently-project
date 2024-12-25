@@ -4,12 +4,19 @@
 The purpose of this project is to learn how to distribute an array and practice calculating the time and space complexity.
 
 ### Problem
-You're required to break the array into two dimensional array, then calculate the time and space complexity.
-Exampel:
+You're required to create a function that divides the array into a two-dimensional array, then calculate the time and space complexity.
 
+Example:
+
+INPUT
 ```
 ["one", "two", "three", "four", "five", "six", "seven", "eight"]
 ```
+OUTPUT
+```
+[ ["one", "two", "three", "four"], ["five", "six", "seven", "eight"]]
+```
+
 
 
 ### Implementation
