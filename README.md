@@ -4,7 +4,7 @@
 The purpose of this project is to learn how to distribute an array and practice calculating the time and space complexity.
 
 ### Problem
-You're required to create a function that divides the array into a two-dimensional array, then calculate the time and space complexity.
+You're required to create a function that divides the array into a two-dimensional array, so the first parameter of the function should take an array, and the second parameter should take a number based on that number we divide the arrays into arrays list and then group them into a two-dimensional array. Then calculate the time and space complexity.
 
 Example One: 
 INPUT 
