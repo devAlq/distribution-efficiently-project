@@ -28,8 +28,13 @@ OUTPUT
 
 
 ### Implementation
-- Create a function that takes an ArrayList as an argument.
+- Create a function called **distribution** that takes an `ArrayList` as an argument and int which based on it you divide the array into arrays, and the return type should be `ArrayList<ArrayList<String>>`.
+- Call the distribution function and pass the `arrOne`, and `2`.
+- Call the distribution function and pass the `arrTwo`, and `3`.
+- Calculate the time & space complexity of the distribution function and write it as a comment above the function.
 
 ### Qualification to pass
 - [ ] The code should run successfully.
 - [ ] Write all the required functions correctly.
+- [ ] The Output should match the use case.
+- [ ] The time and space complexity calculation result should be correct.
