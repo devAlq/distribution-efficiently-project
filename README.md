@@ -47,3 +47,6 @@ OUTPUT
 - [ ] Write all the required functions correctly.
 - [ ] The Output should match the use case.
 - [ ] The time and space complexity calculation result should be correct.
+
+### Project submission instruction
+> Fork the repository, then implement all the project requirements and finally make a pull request.
